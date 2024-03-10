@@ -79,6 +79,9 @@ Correlation measures the strength and direction of a linear relationship between
 **Logistic Regression:**
 Logistic Regression is a statistical model used for binary classification problems. It predicts the probability of an event occurring (like a patient having a disease) based on one or more predictor variables. Unlike linear regression, logistic regression uses the logistic function to constrain predictions between 0 and 1, making it suitable for tasks where the outcome is binary. This method is widely employed in fields like medicine and finance for making predictions and understanding the factors influencing a particular outcome.
 
+**Accuracy Score:**
+Accuracy score is a metric used to assess the performance of a classification model. It represents the ratio of correctly predicted instances to the total instances in the dataset. The formula is (number of correct predictions / total number of predictions). A higher accuracy score, usually expressed as a percentage, indicates better model performance in correctly classifying instances across different classes.
+
 # PROCEDURE
 **`Data Preprocessing`**
 
